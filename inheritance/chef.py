@@ -5,4 +5,5 @@ class Chef:
         print("The chef is making salad")
 
 
-    def makes_
+    def makes_surprise_dish(self):
+        print("The chef is making a surprise dish ")
